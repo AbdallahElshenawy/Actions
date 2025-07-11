@@ -1,0 +1,11 @@
+{
+  "name": "greet-app",
+  "version": "1.0.0",
+  "description": "A simple greeting app for Github Actions PR",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "bash src/test.sh"
+  },
+  "keywords": [],
+  "author": "Abdallah Elshenawy"
+}
